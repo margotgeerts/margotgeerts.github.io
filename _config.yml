@@ -24,8 +24,8 @@ author:
   avatar           : "profile.png"
   name             : "Margot Geerts"
   pronouns         : # example: "she/her"  
-  bio              : "I am a PhD student at LIRIS, KULeuven, working on ML for geospatial data"
-  location         : "Leuven, Belgium"
+  bio              : "PhD student at LIRIS"
+  location         : "Belgium"
   employer         : "KU Leuven"
   uri              : # URL
   email            : "margot.geerts@kuleuven.be" 
