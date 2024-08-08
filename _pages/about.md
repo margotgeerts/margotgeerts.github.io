@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at [the research centre for information systems engineering (LIRIS)](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris), KU Leuven, working on ML for geospatial data and real estate. I received my master's Business and Information Systems Engineering from KU Leuven in 2021. 
+I am a PhD student at [LIRIS](https://feb.kuleuven.be/research/decision-sciences-and-information-management/liris), KU Leuven, working on ML for geospatial data and real estate, supervised by Jochen De Weerdt and Seppe vanden Broucke. I received my master's Business and Information Systems Engineering from KU Leuven in 2021. 
 
 News
 ======
