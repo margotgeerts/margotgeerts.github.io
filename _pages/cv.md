@@ -43,11 +43,11 @@ Skills
 
 Publications
 ======
-#  <ul>{% for post in site.data.publications.main reversed %}
-#    {% include post.title %}
-#    {% include post.authors %}
-#    {% include post.conference %}
-#  {% endfor %}</ul>
+  <ul>{% for post in site.data.publications.main reversed %}
+    {% include post.title %}
+    {% include post.authors %}
+    {% include post.conference %}
+  {% endfor %}</ul>
   
 Talks
 ======
