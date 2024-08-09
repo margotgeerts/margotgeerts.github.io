@@ -1,0 +1,12 @@
+main:
+
+  - title: "Predicting the State of a House Using Google Street View: An Analysis of Deep Binary Classification Models for the Assessment of the Quality of Flemish Houses"
+    authors: <b>Geerts, M.</b>, Shaikh, K., vanden Broucke, S., De Weerdt, S.
+    conference_short: RCIS
+    conference: International Conference on Research Challenges in Information Science, 2022.
+    pdf: https://link.springer.com/chapter/10.1007/978-3-031-05760-1_46
+    # code: https://github.com/konstantinklemmer/spate-gan
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://royalsocietypublishing.org/action/showCitFormats?doi=10.1098%2Frsos.201795
+    # notes: Preliminary version at TCCML Workshop, ICML'21
+    # image: ./assets/img/pub/ssrn21.png
