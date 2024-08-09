@@ -11,40 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Business Economics, KU Leuven, 2025 (expected)
+* M.S. in Business Information Systems Engineering, KU Leuven, 2021
+* B.S. in Business Information Systems Engineering, KU Leuven, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2019 - 2021: Jobstudent financial assistant
+  * imec
+  * Duties includes: Updating internal documentation in SAP, Excel, and HTML
+  * Supervisor: Financial controllers
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017 - 2019: Tutor
+  * REBUS
+  * Duties included: Tutoring first-year university students in economics, statistics and finance.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming tools and frameworks
+  * Languages: Python, R
+  * Data processing: pandas, numpy, pyspark, matplotlib
+  * Analytics: scikit-learn, pytorch
+* Machine learning 
+  * Algorithmic development
+  * Experimental design
+* Project management
+* Academic Writing
+  
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include post.title %}
+    {% include post.authors %}
   {% endfor %}</ul>
   
 Talks
