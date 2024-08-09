@@ -43,7 +43,7 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.data.publications.main reversed %}
+  <ul>{% for post in site.publications reversed %}
     {% include post.title %}
     {% include post.authors %}
     {% include post.conference %}
