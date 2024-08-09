@@ -46,6 +46,7 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include post.title %}
     {% include post.authors %}
+    {% include post.conference %}
   {% endfor %}</ul>
   
 Talks
