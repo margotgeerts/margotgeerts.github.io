@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in  site.data.publications.main reversed %}
+{% for link in  site.data.publications.main reversed %}
   <li>
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
