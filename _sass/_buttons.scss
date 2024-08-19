@@ -170,4 +170,5 @@
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
     color: #fff !important;
     padding-left: 1rem; padding-right: 1rem; position: absolute; top: 8px; left: 16px;
+    background-color: var(--global-theme-color); 
 }
