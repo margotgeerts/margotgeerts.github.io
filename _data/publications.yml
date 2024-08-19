@@ -10,44 +10,4 @@ main:
     # bibtex: 
     # notes: 
     # image: ./assets/img/pub/ssrn21.png
-     - title: "A Survey of Methods and Input Data Types for House Price Prediction"
-    authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
-    conference_short: IJGI
-    conference: ISPRS International Journal of Geo-Information, 2023.
-    pdf: https://www.mdpi.com/2220-9964/12/5/200/pdf?version=1684127196
-    # code:
-    # page:
-    bibtex: https://www.mdpi.com/2220-9964/12/5/200?trk=public_post_main-feed-card-text
-    # notes: 
-    # image: ./assets/img/pub/ssrn21.png
-    - title: "An Evolutionary Geospatial Regression Tree"
-    authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
-    conference_short: IJCAI-W
-    conference: International Workshop on Spatio-Temporal Reasoning and Learning (STRL), IJCAI, 2023.
-    pdf: https://ceur-ws.org/Vol-3475/paper4.pdf
-    # code: 
-    # page: 
-    bibtex: https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4110188&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4110188&offset=0
-    # notes:
-    # image: ./assets/img/pub/ssrn21.png
-     - title: "GeoRF: a geospatial random forest"
-    authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
-    conference_short: DMKD
-    conference: Data Mining and Knowledge Discovery, 2024.
-    pdf: https://link.springer.com/content/pdf/10.1007/s10618-024-01046-7.pdf
-    code: https://github.com/margotgeerts/geoRF
-    # page: 
-    bibtex: https://citation-needed.springer.com/v2/references/10.1007/s10618-024-01046-7?format=refman&flavour=citation
-    notes: Preliminary version at STRL Workshop, IJCAI'23
-    # image: ./assets/img/pub/ssrn21.png
-    - title: "A Spatial Loss Function for Gradient Boosted Trees"
-    authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
-    conference_short: IJCAI-W
-    conference: International Workshop on Spatio-Temporal Reasoning and Learning (STRL), IJCAI, 2024.
-    #pdf: 
-    code: https://github.com/margotgeerts/MI-GBT
-    # page: 
-    #bibtex:
-    # notes: 
-    # image: ./assets/img/pub/ssrn21.png
 
