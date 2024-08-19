@@ -21,7 +21,7 @@ author_profile: true
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width:30%;border-radius: 8px; box-shadow: 3px 3px 6px #888; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover;">
     {% endif %}
     {% if link.conference_short %} 
-    <abbr class="badge">{{ link.conference_short }}</abbr>
+    <abbr class="badge" style="box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);">{{ link.conference_short }} </abbr>
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
