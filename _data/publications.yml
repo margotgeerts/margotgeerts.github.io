@@ -25,7 +25,7 @@ main:
     conference_short: IJCAI-W
     conference: International Workshop on Spatio-Temporal Reasoning and Learning (STRL), IJCAI, 2023.
     pdf: https://ceur-ws.org/Vol-3475/paper4.pdf
-    # code: 
+    code: https://github.com/margotgeerts/GeoTree
     # page: 
     bibtex: https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4110188&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4110188&offset=0
     # notes:
