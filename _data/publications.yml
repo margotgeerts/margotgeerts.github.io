@@ -39,7 +39,7 @@ main:
     # page: 
     bibtex: https://citation-needed.springer.com/v2/references/10.1007/s10618-024-01046-7?format=refman&flavour=citation
     notes: Preliminary version at STRL Workshop, IJCAI'23
-    # image: ./assets/img/pub/ssrn21.png
+    image: ./assets/img/pub/refs_lgb.png
   - title: "A Spatial Loss Function for Gradient Boosted Trees"
     authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
     conference_short: IJCAI-W
