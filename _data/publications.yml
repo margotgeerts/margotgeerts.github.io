@@ -10,4 +10,15 @@ main:
     # bibtex: 
     # notes: 
     # image: ./assets/img/pub/ssrn21.png
+     - title: "A Survey of Methods and Input Data Types for House Price Prediction"
+    authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
+    conference_short: IJGI
+    conference: ISPRS International Journal of Geo-Information, 2023.
+    pdf: https://www.mdpi.com/2220-9964/12/5/200/pdf?version=1684127196
+    # code:
+    # page:
+    bibtex: https://www.mdpi.com/2220-9964/12/5/200?trk=public_post_main-feed-card-text
+    # notes: 
+    # image: ./assets/img/pub/ssrn21.png
+
 
