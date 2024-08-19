@@ -21,7 +21,7 @@ author_profile: true
     <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width:30%">
     {% endif %}
     {% if link.conference_short %} 
-    <abbr class="btn">{{ link.conference_short }}</abbr>
+    <abbr class="badge">{{ link.conference_short }}</abbr>
     {% endif %}
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
