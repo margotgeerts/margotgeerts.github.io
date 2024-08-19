@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-<div>---</div>
+---
 
 {% for link in  site.data.publications.main reversed %}
 
