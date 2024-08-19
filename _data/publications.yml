@@ -9,7 +9,7 @@ main:
     # page: 
     # bibtex: 
     # notes: 
-    # image: ./assets/img/pub/ssrn21.png
+    image: ../images/gsv.png
   - title: "A Survey of Methods and Input Data Types for House Price Prediction"
     authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
     conference_short: IJGI
@@ -19,7 +19,7 @@ main:
     # page:
     bibtex: https://www.mdpi.com/2220-9964/12/5/200?trk=public_post_main-feed-card-text
     # notes: 
-    # image: ./assets/img/pub/ssrn21.png
+    image: ../images/survey.png
   - title: "An Evolutionary Geospatial Regression Tree"
     authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
     conference_short: IJCAI-W
@@ -29,7 +29,7 @@ main:
     # page: 
     bibtex: https://kuleuven.limo.libis.be/discovery/fulldisplay?docid=lirias4110188&context=SearchWebhook&vid=32KUL_KUL:Lirias&lang=en&search_scope=lirias_profile&adaptor=SearchWebhook&tab=LIRIAS&query=any,contains,LIRIAS4110188&offset=0
     # notes:
-    # image: ./assets/img/pub/ssrn21.png
+    image: ../images/geotree.png
   - title: "GeoRF: a geospatial random forest"
     authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
     conference_short: DMKD
@@ -49,6 +49,6 @@ main:
     # page: 
     #bibtex:
     # notes: 
-    # image: ./assets/img/pub/ssrn21.png
+    image: ../images/MI_GBT.png
 
 
