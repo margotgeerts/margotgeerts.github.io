@@ -13,8 +13,8 @@ News
 ======
 * **[31/05/2024]** One paper accepted at the STRL workshop at IJCAI 2024.
 * **[8/06/2024]** Our paper was accepted as Data Mining and Knowledge Discovery.
-* **[13/05/2023]** Our paper was accepted at ISPRS International Journal of Geo-Information.
 * **[1/06/2023]** One paper accepted at the STRL workshop at IJCAI 2023.
+* **[13/05/2023]** Our paper was accepted at ISPRS International Journal of Geo-Information.
 * **[15/03/2022]** My master's thesis was accepted at the RCIS'22 Forum.
 * **[1/09/2021]** I started my PhD!
 
