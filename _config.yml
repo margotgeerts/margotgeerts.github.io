@@ -21,7 +21,7 @@ repository               : "margotgeerts/margotgeerts.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "foto-Margot.jpg"
+  avatar           : "Foto-Margot.jpg"
   name             : "Margot Geerts"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at LIRIS"
