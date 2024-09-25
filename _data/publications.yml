@@ -9,7 +9,7 @@ main:
     # page: 
     # bibtex: 
     # notes: 
-    image: ../images/gsv.png
+    image: ../images/gsv.jpg
   - title: "A Survey of Methods and Input Data Types for House Price Prediction"
     authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
     conference_short: IJGI
@@ -19,7 +19,7 @@ main:
     # page:
     bibtex: https://www.mdpi.com/2220-9964/12/5/200?trk=public_post_main-feed-card-text
     # notes: 
-    image: ../images/survey.jpg
+    image: ../images/survey.png
   - title: "An Evolutionary Geospatial Regression Tree"
     authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
     conference_short: IJCAI-W
