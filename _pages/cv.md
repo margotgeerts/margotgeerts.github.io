@@ -31,14 +31,18 @@ Work experience
 Skills
 ======
 * Programming tools and frameworks
-  * Languages: Python, R
-  * Data processing: pandas, numpy, pyspark, matplotlib
-  * Analytics: scikit-learn, pytorch
-* Machine learning 
+  * Languages: Python, R, SQL
+  * Data processing: Pandas, Numpy, Spark, Matplotlib, ArcGIS, Google Earth Engine
+  * Analytics: Scikit-learn, Torch, TensorFlow
+  * Version control: Git
+* Machine learning & statistics
+  * Theorethical fundamentals
   * Algorithmic development
   * Experimental design
+  * Robust evaluation and interpretation
+  * Data processing pipelines
 * Project management
-* Academic Writing
+* Academic Writing 
   
 
 Publications
@@ -46,11 +50,6 @@ Publications
 {% for link in  site.data.publications.main reversed %}
 
 <div class="pub-row">
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    {% if link.conference_short %} 
-    <abbr class="badge" style="box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);">{{ link.conference_short }} </abbr>
-    {% endif %}
-  </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
