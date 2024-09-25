@@ -19,7 +19,7 @@ main:
     # page:
     bibtex: https://www.mdpi.com/2220-9964/12/5/200?trk=public_post_main-feed-card-text
     # notes: 
-    image: ../images/survey.png
+    image: ../images/survey.jpg
   - title: "An Evolutionary Geospatial Regression Tree"
     authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
     conference_short: IJCAI-W
