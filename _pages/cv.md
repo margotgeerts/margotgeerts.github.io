@@ -49,7 +49,7 @@ Publications
 ======
   <ul>{% for post in site.data.publications.main reversed %} 
     
-    <div>{{post.title}}, {{post.authors}}, {{post.conference}}</div>
+    <div><a href="{{ post.pdf }}">{{ post.title }}</a>, {{post.authors}}, <em>{{post.conference}}</em> </div>
     <div class="links">
       {% if post.pdf %} 
       <a href="{{ post.pdf }}" class="btn" role="button" target="_blank" style="font-size:12px;">PDF</a>
