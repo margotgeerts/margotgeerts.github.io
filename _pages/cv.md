@@ -49,7 +49,21 @@ Publications
 ======
   <ul>{% for post in site.data.publications.main reversed %} 
     
-    {{post.title}}, {{post.authors}}, {{post.conference}}
+    <div>{{post.title}}, {{post.authors}}, {{post.conference}}</div>
+    <div class="links">
+      {% if post.pdf %} 
+      <a href="{{ post.pdf }}" class="btn" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      {% endif %}
+      {% if post.code %} 
+      <a href="{{ post.code }}" class="btn" role="button" target="_blank" style="font-size:12px;">Code</a>
+      {% endif %}
+      {% if post.page %} 
+      <a href="{{ post.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      {% endif %}
+      {% if post.bibtex %} 
+      <a href="{{ post.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>
+      {% endif %}
+    </div>
     
   {% endfor %}</ul>
 
