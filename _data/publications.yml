@@ -44,11 +44,21 @@ main:
     authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
     conference_short: IJCAI-W
     conference: International Workshop on Spatio-Temporal Reasoning and Learning (STRL), IJCAI, 2024.
-    #pdf: 
+    pdf: https://ceur-ws.org/Vol-3827/paper1.pdf
     code: https://github.com/margotgeerts/MI-GBT
     # page: 
     #bibtex:
     # notes: 
     image: ../images/MI_GBT.png
+  - title: "Graph Neural Networks for House Price Prediction: Do or Don’t?"
+    authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
+    conference_short: IJDSA
+    conference: International Journal of Data Science and Analytics, 2024.
+    pdf: https://link.springer.com/article/10.1007/s41060-024-00682-y
+    code: https://github.com/margotgeerts/GNNs4HPP
+    # page: 
+    bibtex: https://citation-needed.springer.com/v2/references/10.1007/s41060-024-00682-y?format=refman&flavour=citation
+    # notes: 
+    image: ../images/GNNs4HPP.png
 
 
