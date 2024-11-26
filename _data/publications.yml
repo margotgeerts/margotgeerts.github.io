@@ -54,7 +54,7 @@ main:
     authors: <b>Geerts, M.</b>, vanden Broucke, S., De Weerdt, J.
     conference_short: IJDSA
     conference: International Journal of Data Science and Analytics, 2024.
-    pdf: https://link.springer.com/article/10.1007/s41060-024-00682-y
+    pdf: https://rdcu.be/d1bXM
     code: https://github.com/margotgeerts/GNNs4HPP
     # page: 
     bibtex: https://citation-needed.springer.com/v2/references/10.1007/s41060-024-00682-y?format=refman&flavour=citation
