@@ -17,14 +17,21 @@ Education
 
 Work experience
 ======
+* 2021 - 2025: PhD Researcher
+  * Research Centre for Information Systems Engineering (LIRIS), KU Leuven
+  * Conducting research at the intersection of machine learning, geospatial data and real estate.
+    
+* 2021 - 2023: Machine Learning Researcher
+  * Fednot
+  * Collaborated with a team of data scientists and machine learning engineers to apply AI for real estate.
+    
 * 2019 - 2021: Jobstudent financial assistant
   * imec
-  * Duties includes: Updating internal documentation in SAP, Excel, and HTML
-  * Supervisor: Financial controllers
+  * Performed administrative tasks and updated internal documentation in SAP, Excel, and HTML
 
 * 2017 - 2019: Tutor
   * REBUS
-  * Duties included: Tutoring first-year university students in economics, statistics and finance.
+  * Tutored first-year university students in economics, statistics and finance.
 
 
   
@@ -33,7 +40,7 @@ Skills
 * Programming tools and frameworks
   * Languages: Python, R, SQL
   * Data processing: Pandas, Numpy, Spark, Matplotlib, ArcGIS, Google Earth Engine
-  * Analytics: Scikit-learn, Torch, TensorFlow
+  * Analytics: Scikit-learn, Torch, HuggingFace
   * Version control: Git
 * Machine learning & statistics
   * Theorethical fundamentals
