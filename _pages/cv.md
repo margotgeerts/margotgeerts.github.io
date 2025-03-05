@@ -19,11 +19,18 @@ Work experience
 ======
 * 2021 - 2025: PhD Researcher
   * Research Centre for Information Systems Engineering (LIRIS), KU Leuven
-  * Conducting research at the intersection of machine learning, geospatial data and real estate.
+  * Conducting research at the intersection of Machine Learning, geospatial data, and real estate analytics, focusing on model performance, interpretability, and uncertainty quantification.
+  * Developed custom ML models for structured and unstructured data, using Python libraries such as PyTorch, TensorFlow, and Scikit-learn.
+  * Collaborated with Statistics Denmark through the European Data Science Exchange Program and industry partners to apply ML solutions to real-world business challenges.
+  * Published peer-reviewed research in international journals and conferences.
+  * Guided master thesis projects and taught lectures in analytics.
     
 * 2021 - 2023: Machine Learning Researcher
   * Fednot
   * Collaborated with a team of data scientists and machine learning engineers to apply AI for real estate.
+  * Finetuned convolutional neural networks to classify Google Street View images of real estate properties.
+  * Improved accuracy and interpretability of real estate price prediction models by tailoring tree-based algorithms to geospatial input data.
+  * Researched the efficacy of location-informed real estate networks to predict real estate prices with graph neural networks.
     
 * 2019 - 2021: Jobstudent financial assistant
   * imec
