@@ -20,7 +20,7 @@ Work experience
 * 2021 - 2025: PhD Researcher
   * Research Centre for Information Systems Engineering (LIRIS), KU Leuven
   * Conducting research at the intersection of Machine Learning, geospatial data, and real estate analytics, focusing on model performance, interpretability, and uncertainty quantification.
-  * Developed custom ML models for structured and unstructured data, using Python libraries such as PyTorch, TensorFlow, and Scikit-learn.
+  * Developed custom ML models and GenAI solutions for structured and unstructured data, using Python libraries such as Scikit-learn, PyTorch, and HuggingFace. 
   * Collaborated with Statistics Denmark through the European Data Science Exchange Program and industry partners to apply ML solutions to real-world business challenges.
   * Published peer-reviewed research in international journals and conferences.
   * Guided master thesis projects and taught lectures in analytics.
