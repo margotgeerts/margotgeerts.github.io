@@ -60,5 +60,12 @@ main:
     bibtex: https://citation-needed.springer.com/v2/references/10.1007/s41060-024-00682-y?format=refman&flavour=citation
     # notes: 
     image: ../images/GNNs4HPP.jpeg
+  - title: "On the Performance of LLMs for Real Estate Appraisal"
+    authors: <b>Geerts, M.</b>, Reusens M., Baesens B., vanden Broucke, S., De Weerdt, J.
+    conference_short: ECML-PKDD
+    conference: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases, 2025.
+    pdf: https://arxiv.org/abs/2506.11812
+    code: https://github.com/margotgeerts/LLM4RealEstate
+    image: ../images/LLMs.jpeg
 
 
