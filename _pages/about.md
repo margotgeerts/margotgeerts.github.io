@@ -13,6 +13,7 @@ My research focuses on developing AI-driven solutions for business, emphasizing 
 
 News
 ======
+* **[27/05/2025]** Our newest [paper](https://arxiv.org/abs/2506.11812) was accepted at ECML-PKDD 2025!
 * **[3/03/2025]** Excited to share a personal project where I used satellite imagery to predict the Urban Heat Island (UHI) Index and deployed the ML model with Docker and Azure! Check it out here: [UHI App](https://github.com/margotgeerts/uhi-app).
 * **[22/11/2024]** Our [article](https://link.springer.com/article/10.1007/s41060-024-00682-y) was accepted at the International Journal of Data Science and Analytics.
 * **[31/05/2024]** One [paper](https://ceur-ws.org/Vol-3827/paper1.pdf) accepted at the STRL workshop at IJCAI 2024.
